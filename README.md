@@ -68,7 +68,7 @@ Dengan Euclidean distance dan data dinormalisasi terlebih dahulu dengan membagi 
 
 1. **Clone Repository**
    ```bash
-   git clone [https://github.com/sukurlive/klasifikasi-data-mining.git](https://github.com/sukurlive/klasifikasi-data-mining.git)
+   git clone https://github.com/sukurlive/klasifikasi-data-mining.git
    ```
    ```bash
    cd klasifikasi-data-mining
