@@ -61,7 +61,7 @@ Fungsi kompensatif Sigmoid yang menyeimbangkan IPK tinggi dan SKS rendah.
 
 ### 5. Hasil KNN
 Dengan Euclidean distance dan data dinormalisasi terlebih dahulu dengan membagi nilai tertinggi.
-![KNN Result](images/knn.png)
+![KNN Result](images/k-nearest-neighbor.png)
 
 
 ## 🛠️ Cara Instalasi & Menjalankan Proyek
