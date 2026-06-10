@@ -44,7 +44,7 @@ Berikut adalah hasil prediksi dari masing-masing algoritma berdasarkan input dat
 *(Catatan: Dengan IPK=3, SKS Lulus=110, Kehadiran=80%, Status Kerja=Ya (KNN, K=3))*
 
 ### 1. Hasil Random Forest (Dengan Detail Voting)
-Metode ini sangat ketat terhadap defisit SKS sehingga menghasilkan prediksi "Tidak Lulus".
+Metode ini sangat ketat terhadap defisit SKS.
 ![Random Forest Result](images/random-forest.png)
 
 ### 2. Hasil Naive Bayes
